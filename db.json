@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "id": "a12-14",
+        "name": "Vans Old Skool",
+        "price": "$329.000",
+        "image_url": "https://www.tiendaonestar.com/wp-content/uploads/2021/12 0002895_vans-tenis-d-old-skool-platform-black-vn0a3b3uy28.jpg"
+      },
+      {
+        "id": "b13-15",
+        "name": "Vans Sk8-Hi",
+        "price": "$250.000",
+        "image_url": "https://www.tiendaonestar.com/wp-content/uploads/2021/12/WhatsApp-Image-2021-10-08-at-3.45.09-PM-2.jpg"
+      },
+      {
+        "id": "c16-17",
+        "name": "Vans Knu Skool",
+        "price": "$410.000",
+        "image_url": "https://www.tiendaonestar.com/wp-content/uploads/2021/12/VN0A38G1P0S-5.jpg"
+      },
+      {
+        "id": "d19-20",
+        "name": "All Star OX",
+        "price": "$789.000",
+        "image_url": "https://www.tiendaonestar.com/wp-content/uploads/2022/10/A00425C_2.jpg"
+      }
+    ]
+  }
